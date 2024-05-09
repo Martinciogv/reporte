@@ -1,0 +1,130 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.centrar {
+    text-align: center;
+}
+
+.btn-gris {
+    background-color: #6A6A6A;
+}
+
+.btn-rojo {
+    background-color: #CF041D;
+}
+
+.btn-naranja {
+    background-color: #FF9700;
+}
+
+.btn-dorado {
+    background-color: #E6CA01;
+}
+
+.btn-verde {
+    background-color: #027A1C;
+}
+
+.btn-azul {
+    background-color: #002EFF;
+}
+
+.bg-gris {
+    background-color: #6A6A6A;
+}
+
+.bg-rojo {
+    background-color: #CF041D;
+}
+
+.bg-naranja {
+    background-color: #FF9700;
+}
+
+.bg-dorado {
+    background-color: #E6CA01;
+}
+
+.bg-verde {
+    background-color: #027A1C;
+}
+
+.bg-azul {
+    background-color: #002EFF;
+}
+
+.badge-gris {
+    background-color: #6A6A6A;
+}
+
+.badge-rojo {
+    background-color: #CF041D;
+}
+
+.badge-naranja {
+    background-color: #FF9700;
+}
+
+.badge-amarillo {
+    background-color: #E6CA01;
+}
+
+.badge-verde {
+    background-color: #027A1C;
+}
+
+.badge-azul {
+    background-color: #002EFF;
+}
+
+
+.table-gris {
+    background-color: #6A6A6A;color: white; font-weight: bold;
+}
+
+.table-rojo {
+    background-color: #CF041D;color: white; font-weight: bold;
+}
+.table-dorado {
+    background-color: #E6CA01;color: white; font-weight: bold;
+}
+
+.table-naranja {
+    background-color: #FF9700;color: white; font-weight: bold;
+}
+
+.table-amarillo {
+    background-color: #E6CA01;color: white; font-weight: bold;
+}
+
+.table-verde {
+    background-color: #027A1C;color: white; font-weight: bold;
+}
+
+.table-azul {
+    background-color: #002EFF;color: white; font-weight: bold;
+}
